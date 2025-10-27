@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotels>
+<Hotels xmlns="http://www.example.org/hotels">
 	<Hotel Rating="4.2">
 		<Name>Westin Tempe</Name>
 		<Phone>480-968-8885</Phone>
