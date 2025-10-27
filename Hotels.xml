@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-
 	<Hotel Rating="4.2">
 		<Name>Westin Tempe</Name>
 		<Phone>480-968-8885</Phone>
@@ -13,7 +12,6 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel Rating="4.5">
 		<Name>Arizona Grand Resort</Name>
 		<Phone>602-438-9000</Phone>
@@ -25,7 +23,6 @@
 			<Zip>85044</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel>
 		<Name>Hilton Phoenix Resort at the Peak</Name>
 		<Phone>602-997-2626</Phone>
@@ -37,7 +34,6 @@
 			<Zip>85020</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel Rating="3.9">
 		<Name>Hyatt Regency Scottsdale</Name>
 		<Phone>480-444-1234</Phone>
@@ -49,7 +45,6 @@
 			<Zip>85258</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel Rating="4.1">
 		<Name>Tempe Mission Palms</Name>
 		<Phone>480-894-1400</Phone>
@@ -61,7 +56,6 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel>
 		<Name>Graduate Tempe</Name>
 		<Phone>480-967-9431</Phone>
@@ -73,7 +67,6 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel Rating="4.3">
 		<Name>Canopy by Hilton Tempe Downtown</Name>
 		<Phone>480-968-6800</Phone>
@@ -85,7 +78,6 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel Rating="3.8">
 		<Name>Courtyard by Marriott Tempe Downtown</Name>
 		<Phone>480-966-2800</Phone>
@@ -97,7 +89,6 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel Rating="4.6">
 		<Name>Omni Tempe Hotel at ASU</Name>
 		<Phone>480-781-5700</Phone>
@@ -109,7 +100,6 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel>
 		<Name>Moxy Phoenix Tempe</Name>
 		<Phone>480-968-3451</Phone>
@@ -121,5 +111,4 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-
 </Hotels>
