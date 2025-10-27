@@ -21,8 +21,8 @@
 									<xs:attribute name="NearestAirport" type="xs:string" use="required"/>
 								</xs:complexType>
 							</xs:element>
-							<xs:element name="Rating" type="xs:decimal" minOccurs="0"/>
 						</xs:sequence>
+						<xs:attribute name="Rating" type="xs:decimal" use="optional"/>
 					</xs:complexType>
 				</xs:element>
 			</xs:sequence>
